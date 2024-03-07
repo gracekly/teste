@@ -1,0 +1,9 @@
+ Primeiramente, eu ligo o interruptor 1 e deixo ele nesse estado. Após isso, ligo o interruptor 2, deixo ele nesse estado por alguns minutos e depois desligo. 
+  
+  Posso entrar em duas salas. Se entro em uma delas e a luz está desligada, devo checar se a lâmpada está quente ou fria. 
+  
+  Se estiver quente, significa que essa lâmpada está conectada ao interruptor 2, o qual ficou ligado por alguns minutos, fazendo com que a lâmpada aquecesse.
+  
+  Se estiver fria, significa que a lâmpada está conectada ao interuptor 3, que nao foi ligado.
+
+  Se entro na segunda e última sala permitida e sua lâmpada está ligada, significa que essa lâmpada está conectada ao interruptor 1, que permaneceu ligado durante as entradas nas salas.
